@@ -1,0 +1,30 @@
+Information
+
+Code Folder
+Overall.py for overall code of the training model, visualization and saving it
+Rtrain.py for Training Model and save model only
+Source.py are the reference for training model
+SourceFix.py are the fixed code for the source.py because of some libary problem and the n_jobs
+Visual.py are for visualizing only the model
+Accuracy.ipynb are for calculating the accuracy of the code
+Optimal.ipynb are for Searching for the optimal cluster of the code
+
+Data Folder
+inside of it are data of the song and the one we used is Data.csv
+
+Visualization Folder
+inside of this are the saved model of the model there are model with 21 cluster and 20 cluster
+
+
+Website Folder
+
+app.py are for the website to run 
+
+Model Folder
+inside of this are the saved model of the model there are model with 21 cluster and 20 cluster
+
+Static Folder
+inside of this are the style for the website
+
+Templates Folder 
+inside of this are the html for the website
